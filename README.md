@@ -1,6 +1,6 @@
 # Volatility Modelling in Continuous Time
 
-Heston and Dupire volatility modelling in Python — building, calibrating and stress-testing option pricing models end to end.
+Python implementation for calibrating and stress-testing Heston and Dupire volatility models.
 
 ## About
 
