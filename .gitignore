@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Local artefacts not part of the published repo
+*.zip
+*.png
+
+# Jupyter
+.ipynb_checkpoints/
